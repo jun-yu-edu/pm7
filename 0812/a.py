@@ -1,0 +1,7 @@
+print('haha', end="적고싶은거")
+print('haha', end="적고싶은거")
+print('haha', end="적고싶은거")
+print('haha', end=" ")
+print('haha', end=" ")
+# print('haha')
+# print('haha')
