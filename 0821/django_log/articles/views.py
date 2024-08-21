@@ -7,6 +7,7 @@ from articles.serializers import ArticleSerializer
 import logging
 
 logger = logging.getLogger(__name__)
+
 @api_view(['GET', 'POST'])
 def article_list(request):
 

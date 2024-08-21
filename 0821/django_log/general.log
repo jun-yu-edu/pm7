@@ -1,3 +1,22 @@
 django.utils.autoreload INFO 2024-08-21 13:23:03,535 autoreload Watching for file changes with StatReloader
 django.request WARNING 2024-08-21 13:23:06,109 log Not Found: /
 articles.views INFO 2024-08-21 13:23:20,618 views articles
+django.utils.autoreload INFO 2024-08-21 16:40:41,947 autoreload C:\Users\admins\Desktop\pm7\0821\django_log\articles\views.py changed, reloading.
+django.utils.autoreload INFO 2024-08-21 16:40:42,868 autoreload Watching for file changes with StatReloader
+django.utils.autoreload INFO 2024-08-21 16:41:45,186 autoreload Watching for file changes with StatReloader
+django.request WARNING 2024-08-21 16:41:46,612 log Not Found: /
+articles.views INFO 2024-08-21 16:41:49,635 views articles
+articles.views INFO 2024-08-21 16:41:52,417 views articles
+articles.views INFO 2024-08-21 16:41:52,884 views articles
+articles.views INFO 2024-08-21 16:41:53,323 views articles
+articles.views INFO 2024-08-21 16:42:27,223 views articles
+articles.views INFO 2024-08-21 16:42:29,208 views articles
+articles.views INFO 2024-08-21 16:42:31,068 views articles
+articles.views INFO 2024-08-21 16:42:33,155 views articles
+articles.views INFO 2024-08-21 16:42:33,304 views articles
+articles.views INFO 2024-08-21 16:42:33,430 views articles
+articles.views INFO 2024-08-21 16:42:33,571 views articles
+articles.views INFO 2024-08-21 16:42:33,696 views articles
+articles.views INFO 2024-08-21 16:42:33,842 views articles
+articles.views INFO 2024-08-21 16:42:33,965 views articles
+django.request WARNING 2024-08-21 16:43:30,716 log Not Found: /articles/wefwe
