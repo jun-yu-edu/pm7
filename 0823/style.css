@@ -1,0 +1,81 @@
+ul {
+    list-style-type: none;
+  }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav > ul{
+    display: flex;
+}
+
+.nav > ul > li{
+    margin: 0 0 0 1rem ;
+}
+
+header > img {
+    width: 100%;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+main > div {
+    width: 77%;
+}
+
+.about {
+    display: flex;
+}
+
+.about > * {
+    margin: 1rem;
+}
+
+.about  h2 {
+    text-align: center;
+}
+
+.contact h2 {
+    text-align: center;
+}
+
+.contact form{
+    display: flex;
+    flex-direction: column;
+    border: 5px solid black;
+    padding: 1rem;
+    width: 45%;
+
+}
+
+
+.contact > div{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.contact img {
+    width: 45%;
+}
+
+
+.more {
+    text-align: center;
+}
+
+.more ul {
+    display: flex;
+    justify-content: space-between;
+}
